@@ -1,0 +1,19 @@
+{
+  "assets": [
+    {
+      "file_name": "Plain Craft Launcher 2.exe",
+      "version": {
+        "channel": "beta",
+        "name": "2.14.0-beta.6",
+        "code": 504
+      },
+      "upd_time": "2026-01-17T23:27:00Z",
+      "downloads": [
+        "https://github.com/O-YUME-O/PMDT-CEXL/releases/download/2.14.0-beta.6/Plain.Craft.Launcher.2.exe"
+      ],
+      "patches": [],
+      "sha256": "DAE42C25F93902C0CF684160AEEF8A0595DB1FF51027236ED53649CF94379061",
+      "changelog": "PCL CE 2.14.0-beta.6 测试版发布，包含以下更新：\n\n- 修复了一些已知问题\n- 优化了性能\n- 改进了用户体验\n\n请测试并反馈问题，谢谢！"
+    }
+  ]
+}
